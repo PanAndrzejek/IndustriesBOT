@@ -291,4 +291,4 @@ client.on("message", (msg) => {
     msg.channel.send(embed)
   }
 })
-client.login("Nzc0MzEzMDc2NTgwOTQxODQ0.X6V9Pw.miz3EJMu1a7kfr6tCUCmKtySuxM")
+client.login("Nzc0MzEzMDc2NTgwOTQxODQ0.X6V9Pw.kBchDI_ZPFpRNl0DX28MfPvskJI")
